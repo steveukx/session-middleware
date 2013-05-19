@@ -1,14 +1,14 @@
 {
    "name": "session-middleware",
    "description": "Stateless session middleware for Node.js and Express/Connect servers",
-   "version": "1.0.1",
+   "version": "1.0.2",
    "author": { "name": "Steve King", "email": "steve@mydev.co" },
    "contributors": [ { "name": "Steve King", "email": "steve@mydev.co" } ],
    "dependencies": {
    },
    "devDependencies": {
    },
-   "keywords": [ "properties", "ini", "parser"],
+   "keywords": [ "session", "persist", "middleware", "cookies"],
    "repository": "git://github.com/steveukx/session-middleware",
    "main": "src/session",
    "bin": {},
